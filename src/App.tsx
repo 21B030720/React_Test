@@ -22,6 +22,8 @@ function App() {
       />
     <ClubForm />
     <TableDropdown students={students} status='pending' /> 
+    {/* Another example */}
+    {/* <TableDropdown students={students} status='declined' />  */} 
 
     </>
   )
