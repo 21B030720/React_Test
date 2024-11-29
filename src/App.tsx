@@ -1,8 +1,6 @@
-import { useState } from 'react';
 import './App.css'
 import ClubForm from './components/Form/ClubForm';
 import TableDropdown from './components/Table/TableDropDown';
-import { Student } from './utils/studentsInterface';
 import { students } from './utils/mockStudents';
 import Card from './components/Card/Card';
 import Button from './components/Button/Button';

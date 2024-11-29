@@ -1,4 +1,4 @@
-import { X, XCircle } from 'lucide-react';
+import { X } from 'lucide-react';
 
 interface StatusInfoProps {
   status: 'declined' | 'pending';

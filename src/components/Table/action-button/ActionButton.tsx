@@ -1,4 +1,3 @@
-import { Edit, Trash2 } from 'lucide-react';
 
 interface ActionButtonProps {
   onClick: (e: React.MouseEvent) => void;
